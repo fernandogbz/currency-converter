@@ -38,3 +38,9 @@ body {
   text-transform: uppercase;
   margin-bottom: 1em;
 }
+
+label {
+  display: block;
+  font-weight: 600;
+}
+
