@@ -85,9 +85,16 @@ select {
 select#from-currency-select {
   background-color: #ffac5a;
 }
+select#from-currency-select:hover {
+  background-color: #fa732d;
+}
 
 select#to-currency-select {
   background-color: #8464d4;
+}
+
+select#to-currency-select:hover {
+  background-color: #6e3fb9;
 }
 
 select option {
@@ -98,7 +105,7 @@ select option {
 button {
   font-size: 1em;
   width: 100%;
-  background-color: #6e3fb9;
+  background-color: #8464d4;
   padding: 1em 0;
   margin-top: 2em;
   border-radius: 0.3em;
@@ -106,6 +113,10 @@ button {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+}
+
+button:hover {
+  background-color: #6e3fb9;
 }
 
 #result {
