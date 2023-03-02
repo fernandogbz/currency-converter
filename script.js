@@ -37,3 +37,6 @@ let convertCurrency = () => {
     alert("Please fill in the amount");
   }
 };
+
+document.querySelector("#convert-button").addEventListener("click", convertCurrency);
+window.addEventListener("load", convertCurrency);
