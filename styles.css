@@ -54,3 +54,8 @@ input#amount {
   margin-bottom: 2em;
   padding: 0.5em;
 }
+
+input#amount:focus {
+  color: #6e3fb9;
+  border-color: #6e3fb9;
+}
