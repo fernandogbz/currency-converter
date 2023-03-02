@@ -59,3 +59,10 @@ input#amount:focus {
   color: #6e3fb9;
   border-color: #6e3fb9;
 }
+
+.dropdowns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+}
