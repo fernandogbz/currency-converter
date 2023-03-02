@@ -32,7 +32,9 @@ let convertCurrency = () => {
 
   //If amount input field isn't empty
   if (amount.lenght != 0) {
-    alert("Here is the result");
+    fetch(api)
+      .then((resp) => resp.json())
+      .then((data) => console.log(data));
   } else {
     alert("Please fill in the amount");
   }
