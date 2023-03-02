@@ -1,0 +1,1 @@
+const fromDropDown = document.getElementById("from-currency-select");
