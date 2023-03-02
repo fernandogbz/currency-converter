@@ -23,3 +23,10 @@ currencies.forEach((currency) =>{
 //Setting default values
 fromDropDown.value = "USD";
 toDropDown.value = "CLP";
+
+let convertCurrency = () => {
+  //Create References
+  const amount = document.querySelector("#amount").value;
+  const fromCurrency = fromDropDown.value;
+  const toCurrency = toDropDown.value;
+}
