@@ -82,3 +82,11 @@ select {
   color: #fff;
 }
 
+select#from-currency-select {
+  background-color: #ffac5a;
+}
+
+select#to-currency-select {
+  background-color: #8464d4;
+}
+
