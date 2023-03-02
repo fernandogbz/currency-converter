@@ -90,3 +90,7 @@ select#to-currency-select {
   background-color: #8464d4;
 }
 
+select option {
+  background-color: #fff;
+  color: #02002c;
+}
