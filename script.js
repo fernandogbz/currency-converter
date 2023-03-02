@@ -29,4 +29,11 @@ let convertCurrency = () => {
   const amount = document.querySelector("#amount").value;
   const fromCurrency = fromDropDown.value;
   const toCurrency = toDropDown.value;
-}
+
+  //If amount input field isn't empty
+  if (amount.lenght != 0) {
+    alert("Here is the result");
+  } else {
+    alert("Please fill in the amount");
+  }
+};
