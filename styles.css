@@ -32,3 +32,9 @@ body {
 .app-icon {
   width: 9.37em;
 }
+
+.app-title {
+  font-size: 1.6em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+}
