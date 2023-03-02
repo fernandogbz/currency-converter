@@ -107,3 +107,12 @@ button {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
+
+#result {
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 1em;
+  color: #02002c;
+  background-color: #e5dbff;
+  padding: 0.8em 0;
+}
