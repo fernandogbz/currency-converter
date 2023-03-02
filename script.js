@@ -18,4 +18,8 @@ currencies.forEach((currency) =>{
   option.value = currency;
   option.text = currency;
   toDropDown.add(option);
-})
+});
+
+//Setting default values
+fromDropDown.value = "USD";
+toDropDown.value = "CLP";
