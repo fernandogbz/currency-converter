@@ -5,4 +5,4 @@ This project was made by Fernando Jiménez, using only HTML5, CSS, JavaScript an
 Link: https://fernandogbz.github.io/currency-converter/
 <br>
 <br>
-![currency-converter](https://user-images.githubusercontent.com/112293116/228242876-976952a7-1420-4745-857d-2409aae0521c.png)
+![currency-converter](https://user-images.githubusercontent.com/112293116/228243596-5d98c3cc-3802-4455-879b-da68328c1a3d.png)
